@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{F8FBF26B-5A48-48BC-9C19-C1CA98C9CE3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsAverage", "PointsAverage\PointsAverage.csproj", "{E7D83422-EE64-4C8B-8296-CCBD095416EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchValues", "SwitchValues\SwitchValues.csproj", "{C2B62382-3363-45C2-8318-098C481EA77E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F8FBF26B-5A48-48BC-9C19-C1CA98C9CE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8FBF26B-5A48-48BC-9C19-C1CA98C9CE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8FBF26B-5A48-48BC-9C19-C1CA98C9CE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D83422-EE64-4C8B-8296-CCBD095416EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D83422-EE64-4C8B-8296-CCBD095416EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D83422-EE64-4C8B-8296-CCBD095416EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D83422-EE64-4C8B-8296-CCBD095416EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B62382-3363-45C2-8318-098C481EA77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B62382-3363-45C2-8318-098C481EA77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B62382-3363-45C2-8318-098C481EA77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B62382-3363-45C2-8318-098C481EA77E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
