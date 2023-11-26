@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Введіть 5 оцінок студента за 100-бальною шкалою:");
+﻿using System.Text;
+
+Console.OutputEncoding = Encoding.UTF8;
+Console.WriteLine("Введіть 5 оцінок студента за 100-бальною шкалою:");
 
 int[] marks = new int[5];
 int sum = 0;

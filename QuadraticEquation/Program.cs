@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Введіть коефіцієнти квадратного рівняння ax^2 + bx + c = 0");
+﻿using System.Text;
+
+Console.OutputEncoding = Encoding.UTF8;
+Console.WriteLine("Введіть коефіцієнти квадратного рівняння ax^2 + bx + c = 0");
 
 Console.Write("Введіть a: ");
 double a = Convert.ToDouble(Console.ReadLine());

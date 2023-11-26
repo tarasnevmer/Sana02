@@ -1,4 +1,7 @@
-﻿Console.Write("Введіть натуральне число n: ");
+﻿using System.Text;
+
+Console.OutputEncoding = Encoding.UTF8;
+Console.Write("Введіть натуральне число n: ");
 
 int n = Convert.ToInt32(Console.ReadLine());
 

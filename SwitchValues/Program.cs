@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Введіть ціле число в діапазоні [0, 9]:");
+﻿using System.Text;
+
+Console.OutputEncoding = Encoding.UTF8;
+Console.WriteLine("Введіть ціле число в діапазоні [0, 9]:");
 
 int number = Convert.ToInt32(Console.ReadLine());
 
